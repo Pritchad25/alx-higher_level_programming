@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-def safe_print_list_integers9my_list=[], x=0):
+def safe_print_list_integers(my_list=[], x=0):
 
     """This function prints the first x elements
     of a list and only integers.
