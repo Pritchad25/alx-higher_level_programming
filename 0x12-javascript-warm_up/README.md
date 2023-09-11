@@ -1,0 +1,17 @@
+This directory contains solutions to the programming tasks of the JavaScript Warm Up project done at the ALX Software Engineering School. While doing this project, I learnt:
+- Why JavaScript programming is amazing
+- How to run a JavaScript script
+- How to create variables and constants
+- What differences between var, let and const are
+- What all the data types available in JavaScript are
+- How to use the if, if ... else statements.
+- How to use comments
+- How to affect values to variables
+- How to use while and for loops
+- How to use break and continue statements
+- What a function is and how functions are used.
+- What a function that does not use any return statements return
+- What the Scope of variables is
+- What Arithmetic Operators are and how to use them
+- How to manipulate dictionary
+- How to import a file
