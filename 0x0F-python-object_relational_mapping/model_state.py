@@ -13,14 +13,13 @@ class State(Base):
     states table in MySQL.
 
     Attributes:
+        id (int): the unique integer (primary key).
         name (str): the string representing the name of
         the state.
-        id (int): the unique integer (primary key).
-
     Args:
         Base (sqlalchemy.ext.declarative.declarative_base()): the base instance.
     """
     __tablename__ = 'states'
 
-    name = Column(String(128), nullable=False)
     id = Column(Integer, primary_key=True, nullable=False, autoincrement=True)
+    name = Column(String(128), nullable=False)
