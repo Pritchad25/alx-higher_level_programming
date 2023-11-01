@@ -1,0 +1,11 @@
+This directory contains the solutions to the programming tasks of the JavaScript - Web jQuery project done at the ALX Holberton Software Engineering School.While doing this project, I learnt:
+-Why JQuery make front-end programming so easy
+-How to select HTML elements in JavaScript
+-How to select HTML elements with JQuery
+-What the differences between ID, class and tag name selectors are
+-How to modify an HTML element style
+-How to get and update an HTML element content
+-How to modify the DOM
+-How to make a GET request with JQuery Ajax
+-How to make a POST request with JQuery Ajax
+-How to listen/bind to DOM events
