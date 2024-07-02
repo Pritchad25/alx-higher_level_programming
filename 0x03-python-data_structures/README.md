@@ -48,7 +48,7 @@ At the end of this project, I am expected to be able to explain to anyone, witho
 - Don’t forget to push your header file
 - All your header files should be include guarded
 
-## Getting Started <a name="getting-started"</a>
+## Getting Started <a name="getting-started"></a>
 1. Clone this repository: `git clone https://github.com/Pritchad25/alx-higher_level_programming.git`
 2. Access the project directory: `cd 0x03-python-data_structures`
 3. Run any executable file in the directory
