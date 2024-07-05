@@ -1,9 +1,44 @@
-This directory contains solutions for the tasks of the SQL - More Queries project. The project was done at the ALX Holberton Software Engineering School. While doing this project, I learnt:
--How to create a new MySQL user
--How to manage privileges for a user to a database or table
--What a PRIMARY KEY is
--What a FOREIGN KEY is
--How to use NOT NULL and UNIQUE constraints
--How to retrieve datas from multiple tables in one request
--What subqueries are
--What JOIN and UNION is
+# Project Title: SQL - More queries
+
+## Table of Contents
+1. About
+2. Learning Objectives
+3. Requirements
+4. Getting Started
+5. Contributing
+6. License
+
+## About <a name="about"></a>
+This project is part of the curriculum of the ALX Software Engineering program. The main objective of this project is to understand and implement Relational Databases using Structured Query Language(SQL).
+
+## Learning Objectives <a name="learning-objectives"></a>
+At the end of this project, I am expected to be able to explain to anyone, without the help of Google:
+- How to create a new MySQL user
+- How to manage privileges for a user to a database or table
+- What’s a `PRIMARY KEY`
+- What’s a `FOREIGN KEY`
+- How to use `NOT NULL` and `UNIQUE` constraints
+- How to retrieve datas from multiple tables in one request
+- What are subqueries
+- What are `JOIN` and `UNION`
+
+## Requirements <a name="requirements"></a>
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be executed on Ubuntu 20.04 LTS using `MySQL 8.0` (version 8.0.25)
+- All your files should end with a new line
+- All your SQL queries should have a comment just before (i.e. syntax above)
+- All your files should start by a comment describing the task
+- All SQL keywords should be in uppercase (`SELECT`, `WHERE`…)
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- The length of your files will be tested using `wc`
+
+## Getting Started <a name="getting-started"></a>
+1. Clone this repository: `git clone https://github.com/Pritchad25/alx-higher_level_programming.git`
+2. Access the project directory: `cd 0x0E-SQL_more_queries`
+3. Run any executable file in the directory
+
+## Contributing <a name="contributing"></a>
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License <a name="license"></a>
+ALX 2024 - [alxafrica](https://www.alxafrica.com)
